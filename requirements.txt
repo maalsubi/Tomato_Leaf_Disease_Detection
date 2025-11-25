@@ -1,0 +1,14 @@
+tensorflow==2.15.0
+streamlit==1.36.0
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+scikit-learn==1.4.2
+matplotlib==3.8.4
+
+# Translation libraries
+deep-translator==1.11.4
+googletrans==4.0.0
+
+pydot==2.0.0
+graphviz==0.20.1
