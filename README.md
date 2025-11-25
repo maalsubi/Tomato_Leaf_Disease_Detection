@@ -35,8 +35,11 @@ This dataset contains 10 tomato leaf disease classes, with over 10,000 high-qual
 Along with the images, this project includes a manually curated CSV file containing remedies for all tomato diseases in the dataset.
 
 ✔ Remedies scraped from official Tamil Nadu government agriculture websites
+
 ✔ Includes Integrated Disease Management (IDM) practices
+
 ✔ Written in English and dynamically translated into Tamil inside the Streamlit app
+
 ✔ Fully aligned with the class names predicted by the model
 
 This custom CSV enhances the project by making it not just a classifier, but a full advisory system for farmers.
