@@ -55,10 +55,10 @@ h3 {
 """, unsafe_allow_html=True)
 
 # ---------------------------------------------------------
-# PATHS
+# PATHS (CHANGE THE PATH AS REQUIRED)
 # ---------------------------------------------------------
-MODEL_PATH = r"D:\d backup\M_TECH\SEM1\Hackathon_papers\FINAL_CODE\tomato_disease_CNN_model2.h5"
-CSV_PATH   = r"D:\d backup\M_TECH\SEM1\Hackathon_papers\FINAL_CODE\tomato_diseases_details.csv"
+MODEL_PATH = r"models/tomato_disease_CNN_model2.h5"
+CSV_PATH   = r"Custom_CSV_dataset/tomato_diseases_details.csv"
 
 # ---------------------------------------------------------
 # LOAD MODEL + CSV
@@ -152,4 +152,5 @@ st.write("---")
 st.markdown(
     "<p style='text-align:center; color:gray;'>Developed with ❤️ for Smart Farming Innovation</p>",
     unsafe_allow_html=True
+
 )
