@@ -56,7 +56,7 @@ For a detailed view of the full model architecture, [Model Architecture](results
 Clone the repository:
 
 ```bash
-git clone [https://github.com/maalsubi/Tomato_Leaf_Disease_Detection.git](https://github.com/maalsubi/Tomato_Leaf_Disease_Detection.git)
+git clone https://github.com/maalsubi/Tomato_Leaf_Disease_Detection.git
 cd Tomato_Leaf_Disease_Detection
 ```
 Install dependencies:
